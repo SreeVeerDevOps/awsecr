@@ -6,6 +6,14 @@ h1 {
 	color: white
 }
 
+h3 {
+	color: orchid
+}
+
+a {
+	color: orangered
+}
+
 .square {
 	width: 30%;
 	background-color: purple;
@@ -19,7 +27,7 @@ h1 {
 	margin: 0 auto;
 }
 
-#smallcont{
+#smallcont {
 	height: 10px;
 	color: white;
 	text-align: center;
